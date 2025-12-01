@@ -100,7 +100,7 @@ function App() {
             </div>
             {itIsAnniversary ? (
                 <div className="is-anniversary-wrapper">
-                    <h1>¡Es nuestro aniversario!</h1>
+                    <h1>¡Es nuestro aniversari!</h1>
                     <button onClick={onStartNextCountdownClick}>
                         Comenzar cuenta para siguiente aniversario
                     </button>
