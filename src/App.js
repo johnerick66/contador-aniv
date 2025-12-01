@@ -1,6 +1,6 @@
 import './App.css';
 import { useCallback, useEffect, useRef, useState } from 'react';
-import cinna from "./assets/img/cinna.png"
+import cinna from "./assets/img/img con diana.jpg"
 import kurospi from "./assets/img/k-s.jpg"
 import puls from "./assets/img/puls.png"
 import faces from "./assets/img/faces.png"
@@ -94,13 +94,13 @@ function App() {
             </div>
             <div className="header-wrapper">
                 <div className="header-content">
-                    <h1>Tiempo restante para nuestro aniversario</h1>
-                    <h2>6 de junio del 2024</h2>
+                    <h1>Lo que falta para nuesto aniversario</h1>
+                    <h2>6 de junio con mi bbloka</h2>
                 </div>
             </div>
             {itIsAnniversary ? (
                 <div className="is-anniversary-wrapper">
-                    <h1>¡Es nuestro aniversari!</h1>
+                    <h1>¡Es nuestro aniversario!</h1>
                     <button onClick={onStartNextCountdownClick}>
                         Comenzar cuenta para siguiente aniversario
                     </button>
