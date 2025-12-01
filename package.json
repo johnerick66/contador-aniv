@@ -2,7 +2,7 @@
   "name": "contador-regresivo2",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://neroj66.github.io/contador-aniv",
+  "homepage": "https://johnerick66.github.io/contador-aniv",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
