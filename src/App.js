@@ -92,12 +92,13 @@ function App() {
             <div className="corner-image bottom-right">
                 <img src={cinna} alt="Cinna" />
             </div>
-            <div className="header-wrapper">
-                <div className="header-content">
-                    <h1>Lo que falta para nuestro aniversario</h1>
-                    <h2>6 de junio con mi bbloka</h2>
-                </div>
+            <div className="header-content">
+            <h1>
+                Lo que falta para nuestro <br /> 2do aniversario
+            </h1>
+            <h2>6 de junio con mi bbloka</h2>
             </div>
+
             {itIsAnniversary ? (
                 <div className="is-anniversary-wrapper">
                     <h1>¡Es nuestro aniversario!</h1>
