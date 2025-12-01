@@ -94,7 +94,7 @@ function App() {
             </div>
             <div className="header-wrapper">
                 <div className="header-content">
-                    <h1>Lo que falta para nuesto aniversario</h1>
+                    <h1>Lo que falta para nuestro aniversario</h1>
                     <h2>6 de junio con mi bbloka</h2>
                 </div>
             </div>
